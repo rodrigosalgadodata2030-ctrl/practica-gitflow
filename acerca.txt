@@ -1,0 +1,4 @@
+Proyecto práctico para aprender comandos de consola, control de versiones con Git, sincronización con GitHub y metodología Gitflow.
+
+Versión: v1.0.0
+Estado: Preparación del lanzamiento.
