@@ -1,1 +1,2 @@
 Proyecto de practica para aprender Git y GitFlow.
+Version del proyecto: v1.0.0
