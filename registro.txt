@@ -1,0 +1,4 @@
+Formulario de registro
+Nombre:RODRIGO SALGADO
+Correo electrónico: RODRIGOSALGADO@GMAIL.COM
+Contraseña: XXXXXXXXXXXXXX
