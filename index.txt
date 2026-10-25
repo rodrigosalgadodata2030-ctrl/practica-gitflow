@@ -1,1 +1,1 @@
-Bienvenido al proyecto GitFlow
+Bienvenido al proyecto GitFlow - Version corregida
